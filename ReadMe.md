@@ -9,6 +9,7 @@ For example, Save for Web in Photoshop:
 There were a few others around but I wanted the negative space of the keys so I could change the color to match the design of various sites and look more like the keyboard (my Mac Air keyboard anyway).
 
 I just used capital letters for non alpha-numeric characters, as follows:
+
 A = alt option  
 C = command  
 V = control  
