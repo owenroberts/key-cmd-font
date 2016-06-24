@@ -22,5 +22,5 @@ K = down arrow
 J = left arrow  
 L = right arrow  
 I = up arrow  
-
+E = escape  
 
