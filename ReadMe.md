@@ -1,4 +1,4 @@
-#Key Cmd Font
+# Key Cmd Font
 
 I created this to use for notes for lectures at BMCC and other places, using [IcoMoon](https://icomoon.io/).
 
